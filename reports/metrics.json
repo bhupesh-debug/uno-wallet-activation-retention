@@ -1,0 +1,415 @@
+{
+  "synthetic_data": true,
+  "seed": 20261125,
+  "n_users": 2400,
+  "n_events": 10862,
+  "n_weeks": 12,
+  "headline": {
+    "activation_rate": 0.5629166666666666,
+    "d7_retention": 0.2995833333333333,
+    "d30_retention": 0.1975,
+    "d60_retention": 0.11041666666666666,
+    "mean_cards_linked": 1.425,
+    "mean_first_week_txns": 2.4758333333333336,
+    "mean_reward_wk1": 2.09625
+  },
+  "cohorts": [
+    {
+      "signup_week": 0,
+      "cohort_size": 200,
+      "activation_rate": 0.58,
+      "d7": 0.285,
+      "d30": 0.195,
+      "d60": 0.11
+    },
+    {
+      "signup_week": 1,
+      "cohort_size": 200,
+      "activation_rate": 0.555,
+      "d7": 0.275,
+      "d30": 0.18,
+      "d60": 0.115
+    },
+    {
+      "signup_week": 2,
+      "cohort_size": 200,
+      "activation_rate": 0.57,
+      "d7": 0.275,
+      "d30": 0.195,
+      "d60": 0.11
+    },
+    {
+      "signup_week": 3,
+      "cohort_size": 200,
+      "activation_rate": 0.62,
+      "d7": 0.295,
+      "d30": 0.225,
+      "d60": 0.09
+    },
+    {
+      "signup_week": 4,
+      "cohort_size": 200,
+      "activation_rate": 0.55,
+      "d7": 0.29,
+      "d30": 0.195,
+      "d60": 0.095
+    },
+    {
+      "signup_week": 5,
+      "cohort_size": 200,
+      "activation_rate": 0.54,
+      "d7": 0.305,
+      "d30": 0.2,
+      "d60": 0.125
+    },
+    {
+      "signup_week": 6,
+      "cohort_size": 200,
+      "activation_rate": 0.535,
+      "d7": 0.35,
+      "d30": 0.21,
+      "d60": 0.135
+    },
+    {
+      "signup_week": 7,
+      "cohort_size": 200,
+      "activation_rate": 0.565,
+      "d7": 0.28,
+      "d30": 0.175,
+      "d60": 0.095
+    },
+    {
+      "signup_week": 8,
+      "cohort_size": 200,
+      "activation_rate": 0.575,
+      "d7": 0.32,
+      "d30": 0.19,
+      "d60": 0.085
+    },
+    {
+      "signup_week": 9,
+      "cohort_size": 200,
+      "activation_rate": 0.515,
+      "d7": 0.275,
+      "d30": 0.2,
+      "d60": 0.125
+    },
+    {
+      "signup_week": 10,
+      "cohort_size": 200,
+      "activation_rate": 0.57,
+      "d7": 0.32,
+      "d30": 0.205,
+      "d60": 0.105
+    },
+    {
+      "signup_week": 11,
+      "cohort_size": 200,
+      "activation_rate": 0.58,
+      "d7": 0.325,
+      "d30": 0.2,
+      "d60": 0.135
+    }
+  ],
+  "channels": [
+    {
+      "channel": "campus",
+      "n": 295,
+      "activation_rate": 0.5559322033898305,
+      "d7": 0.2745762711864407,
+      "d30": 0.19322033898305085,
+      "mean_cards_linked": 1.176271186440678,
+      "mean_first_week_txns": 2.166101694915254,
+      "mean_reward_wk1": 1.808406779661017
+    },
+    {
+      "channel": "organic",
+      "n": 695,
+      "activation_rate": 0.5784172661870504,
+      "d7": 0.3079136690647482,
+      "d30": 0.1985611510791367,
+      "mean_cards_linked": 1.4345323741007194,
+      "mean_first_week_txns": 2.6244604316546765,
+      "mean_reward_wk1": 2.2340287769784175
+    },
+    {
+      "channel": "paid",
+      "n": 638,
+      "activation_rate": 0.4341692789968652,
+      "d7": 0.23981191222570533,
+      "d30": 0.15517241379310345,
+      "mean_cards_linked": 1.1332288401253918,
+      "mean_first_week_txns": 2.006269592476489,
+      "mean_reward_wk1": 1.6995454545454545
+    },
+    {
+      "channel": "referral",
+      "n": 583,
+      "activation_rate": 0.6672384219554031,
+      "d7": 0.3704974271012007,
+      "d30": 0.23842195540308747,
+      "mean_cards_linked": 1.7958833619210979,
+      "mean_first_week_txns": 2.8336192109777016,
+      "mean_reward_wk1": 2.4125042881646657
+    },
+    {
+      "channel": "waitlist",
+      "n": 189,
+      "activation_rate": 0.6296296296296297,
+      "d7": 0.291005291005291,
+      "d30": 0.21693121693121692,
+      "mean_cards_linked": 1.619047619047619,
+      "mean_first_week_txns": 2.894179894179894,
+      "mean_reward_wk1": 2.4024867724867724
+    }
+  ],
+  "activation_cards": [
+    {
+      "activated": false,
+      "cards_linked": 0,
+      "n": 316,
+      "d7": 0.0759493670886076,
+      "d30": 0.06645569620253164
+    },
+    {
+      "activated": false,
+      "cards_linked": 1,
+      "n": 425,
+      "d7": 0.12941176470588237,
+      "d30": 0.0988235294117647
+    },
+    {
+      "activated": false,
+      "cards_linked": 2,
+      "n": 240,
+      "d7": 0.17083333333333334,
+      "d30": 0.09583333333333334
+    },
+    {
+      "activated": false,
+      "cards_linked": 3,
+      "n": 68,
+      "d7": 0.19117647058823528,
+      "d30": 0.07352941176470588
+    },
+    {
+      "activated": true,
+      "cards_linked": 0,
+      "n": 156,
+      "d7": 0.32051282051282054,
+      "d30": 0.14743589743589744
+    },
+    {
+      "activated": true,
+      "cards_linked": 1,
+      "n": 382,
+      "d7": 0.4031413612565445,
+      "d30": 0.25654450261780104
+    },
+    {
+      "activated": true,
+      "cards_linked": 2,
+      "n": 510,
+      "d7": 0.44901960784313727,
+      "d30": 0.30196078431372547
+    },
+    {
+      "activated": true,
+      "cards_linked": 3,
+      "n": 303,
+      "d7": 0.504950495049505,
+      "d30": 0.3564356435643564
+    }
+  ],
+  "models": {
+    "rule": {
+      "auc": 0.6644695160582874,
+      "accuracy": 0.6958333333333333,
+      "precision": 0.3466135458167331,
+      "recall": 0.6126760563380281,
+      "f1": 0.44274809160305345,
+      "base_rate": 0.19722222222222222,
+      "n": 720,
+      "lift": {
+        "top_frac": 0.2,
+        "top_retention": 0.3125,
+        "base_rate": 0.19722222222222222,
+        "lift": 1.5845070422535212
+      }
+    },
+    "logistic": {
+      "auc": 0.7235732735513427,
+      "accuracy": 0.8,
+      "precision": 0.25,
+      "recall": 0.007042253521126761,
+      "base_rate": 0.19722222222222222,
+      "n": 720,
+      "lift": {
+        "top_frac": 0.2,
+        "top_retention": 0.3680555555555556,
+        "base_rate": 0.19722222222222222,
+        "lift": 1.8661971830985917
+      },
+      "train_auc": 0.6917957438060849,
+      "threshold_best_f1": 0.2,
+      "f1_at_best_threshold": 0.43636363636363634,
+      "f1_at_0.5": 0.0136986301369863
+    },
+    "random_forest": {
+      "auc": 0.7102441639456113,
+      "accuracy": 0.8027777777777778,
+      "precision": 0.0,
+      "recall": 0.0,
+      "base_rate": 0.19722222222222222,
+      "n": 720,
+      "lift": {
+        "top_frac": 0.2,
+        "top_retention": 0.3819444444444444,
+        "base_rate": 0.19722222222222222,
+        "lift": 1.936619718309859
+      },
+      "train_auc": 0.7577122287369061,
+      "threshold_best_f1": 0.25,
+      "f1_at_best_threshold": 0.4205128205128205,
+      "f1_at_0.5": 0.0
+    }
+  },
+  "drivers": [
+    {
+      "feature": "days_to_activation",
+      "importance": 0.039745479799210406,
+      "std": 0.011791622114839332
+    },
+    {
+      "feature": "activated",
+      "importance": 0.01675154734636185,
+      "std": 0.006330057527636776
+    },
+    {
+      "feature": "reward_earned_wk1",
+      "importance": 0.011086675763926013,
+      "std": 0.010132176460451824
+    },
+    {
+      "feature": "cards_linked",
+      "importance": 0.00568375651834876,
+      "std": 0.00315290109916193
+    },
+    {
+      "feature": "first_week_txns",
+      "importance": 0.005179955163506911,
+      "std": 0.004211090080501062
+    },
+    {
+      "feature": "channel_referral",
+      "importance": 0.0020414006530531715,
+      "std": 0.0018891016040862628
+    },
+    {
+      "feature": "channel_paid",
+      "importance": 0.0010331887518884141,
+      "std": 0.0015351992767303861
+    },
+    {
+      "feature": "channel_waitlist",
+      "importance": 0.0001407232321262053,
+      "std": 0.00035751236535297285
+    },
+    {
+      "feature": "channel_organic",
+      "importance": -0.0006804668843511718,
+      "std": 0.0013920179972167351
+    },
+    {
+      "feature": "channel_campus",
+      "importance": -0.001255543642477841,
+      "std": 0.0008085210359115199
+    },
+    {
+      "feature": "signup_week",
+      "importance": -0.0013524050879673345,
+      "std": 0.0028558725101849405
+    }
+  ],
+  "logistic_coefs": [
+    {
+      "feature": "activated",
+      "coef": 0.36983205811277586
+    },
+    {
+      "feature": "reward_earned_wk1",
+      "coef": 0.21885849224640186
+    },
+    {
+      "feature": "days_to_activation",
+      "coef": -0.17256319607237228
+    },
+    {
+      "feature": "cards_linked",
+      "coef": 0.08576359546739266
+    },
+    {
+      "feature": "channel_referral",
+      "coef": 0.054915257348151274
+    },
+    {
+      "feature": "first_week_txns",
+      "coef": 0.041888932470639864
+    },
+    {
+      "feature": "channel_organic",
+      "coef": -0.038712612423058325
+    },
+    {
+      "feature": "signup_week",
+      "coef": 0.03762042658456387
+    },
+    {
+      "feature": "channel_waitlist",
+      "coef": -0.010196871937309657
+    },
+    {
+      "feature": "channel_campus",
+      "coef": -0.00575717626550506
+    },
+    {
+      "feature": "channel_paid",
+      "coef": -0.00379444831122581
+    }
+  ],
+  "experiment": {
+    "intervention": "48-hour activation nudge: in-app checklist + one push notification prompting a second linked card and a first optimised payment within 48h of signup.",
+    "hypothesis": "Pushing activation into the first 48 hours raises D30 retention by at least 3 percentage points.",
+    "randomisation": "At signup, 50/50, stratified by acquisition channel.",
+    "primary_metric": "D30 retention (any transaction on days 28-30).",
+    "guardrails": [
+      "Activation rate must not fall by more than 1pp.",
+      "No increase in support contacts per 1,000 signups.",
+      "No increase in linked-card removals within 30 days."
+    ],
+    "secondary_metrics": [
+      "D7 retention",
+      "cards linked by day 7",
+      "reward earned in week 1",
+      "days to activation (median)"
+    ],
+    "baseline_d30": 0.1975,
+    "mde_pp": 3.0,
+    "alpha": 0.05,
+    "power": 0.8,
+    "n_per_arm": 2915,
+    "total_n": 5830,
+    "signups_per_week": 200,
+    "weeks_to_recruit": 30,
+    "srm_check": "Chi-square on allocation counts; stop and investigate if p < 0.001.",
+    "decision_rule": "SHIP if all of: (1) D30 uplift >= +3pp, (2) two-sided p < 0.05, (3) activation rate not worse by >1pp, (4) no guardrail breached, (5) no sample-ratio mismatch. KILL if D30 uplift <= 0pp or any guardrail breached. ITERATE (one more variant, same rule) if uplift is between 0 and +3pp. The rule is fixed before launch; it is not renegotiated after seeing results.",
+    "causation_note": "The driver ranking in this project is OBSERVATIONAL: activated users retain better, but activation also marks users who were already engaged. Correlation is not causation \u2014 only this randomised test can establish a causal link between causing activation and retention.",
+    "mde_5pp_alternative": {
+      "mde_pp": 5.0,
+      "n_per_arm": 1084,
+      "total_n": 2168,
+      "weeks_to_recruit": 11,
+      "note": "Same design, larger minimum effect: powered for +5pp instead of +3pp. The 3pp design stays the primary; the 5pp variant is the pragmatic fallback if the team cannot wait 30 weeks."
+    }
+  }
+}
